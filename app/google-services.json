@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "228413368980",
+    "firebase_url": "https://testing-55c3f.firebaseio.com",
+    "project_id": "testing-55c3f",
+    "storage_bucket": "testing-55c3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228413368980:android:ba43d3bec7d6f8f4",
+        "android_client_info": {
+          "package_name": "example.com.cameratext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228413368980-a37v3u107vcb2gu6ds3kno8h6v8m4175.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.com.cameratext",
+            "certificate_hash": "438150c94c880d099ce2544ffad0e204b807ab69"
+          }
+        },
+        {
+          "client_id": "228413368980-lvofo7nrs7ccl2aad8i422khtvq2i5qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDKiiZ_jIhzU78WobVOK4J7SR6uyB6Ag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228413368980-lvofo7nrs7ccl2aad8i422khtvq2i5qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
